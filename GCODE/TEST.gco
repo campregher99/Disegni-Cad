@@ -1,6 +1,0 @@
-G28 ; Home extruder
-G1 Z0
-G92 Z0.08
-G90
-G1 Z10
-G1 X100 Y100 Z0
